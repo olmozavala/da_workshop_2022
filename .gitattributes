@@ -1,2 +1,4 @@
-imgs/aviso/1993-2013.npy filter=lfs diff=lfs merge=lfs -text
-imgs/aviso/1993-2013-mask.npy filter=lfs diff=lfs merge=lfs -text
+data/1993-01.npy filter=lfs diff=lfs merge=lfs -text
+data/aviso/*NPY filter=lfs diff=lfs merge=lfs -text
+data/aviso/1993-1995-mask.npy filter=lfs diff=lfs merge=lfs -text
+data/aviso/1993-1995.npy filter=lfs diff=lfs merge=lfs -text
